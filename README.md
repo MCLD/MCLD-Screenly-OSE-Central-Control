@@ -1,6 +1,6 @@
-#Screenly OSE Central Control for Multiple Screens
+# Screenly OSE Central Control for Multiple Screens
 
-
+:warning: **This project is no longer under active development** :warning:
 
 We created Screenly OSE Central Control to solve a basic problem. There are 18 different screens across the [Maricopa County Library District](http://mcldaz.org) and these screens are connected to Raspberry Pis running [Screenly OSE](https://www.screenlyapp.com/ose/) for digital signage. We needed a central, online service to access each one without a load of bookmarks. Using a modified Bootstrap theme (information below) and some custom coding, we created a system that updates dynamically. When one selects a branch on the left side, the right side primary window updates with that location's Screenly OSE administration access.
 
